@@ -1,0 +1,2 @@
+# webstatic
+my blog images
